@@ -1,2 +1,4 @@
 # K3D_Tools
-Contains useful tools that make life with Karamba3D easier
+This repository contains user objects that make life easier with Karamba3D.
+
+In order to make them available in Grasshopper copy them into the User Object Folder. The easiest way to get there is to select 'File/Special Folders/user Object Folder' from the Grasshopper menu.
